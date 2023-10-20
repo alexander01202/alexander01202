@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexander01202
-- 👀 I’m interested in data science
+- 👀 Expert in in Web/App Development
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 Reach me via twitter
