@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexander01202
-- 👀 Expert in in Web/App Development
+- 👀 Expert in Front-end & back-end Web/App Development
 - 🌱 I’m currently learning Machine learning
-- 💞️ I’m looking to collaborate on AI projects
+- 💞️ I’m looking to collaborate
 - 📫 Reach me via twitter
 
 <!---
