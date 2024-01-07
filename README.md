@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexander01202
-- 👀 Expert in Front-end & back-end Web/App Development
+- 👀 Expert in Python and SQL Development
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate
 - 📫 Reach me via twitter
